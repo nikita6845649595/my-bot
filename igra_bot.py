@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # --- КОНФИГУРАЦИЯ ---
-TOKEN = "8651436301:AAFS7No4WNsaDX9F9ip7KzbY1Mi6j46UnuM"
+TOKEN = "8692203258:AAHLbBlMcxdsEuWrVD5MAK3tHbxjcjfAdtY"
 OWNER_ID = 8260588511  # Твой ID установлен сюда
 LOG_FILE = "bot_log.txt"
 DB_FILE = "users_db.json"
